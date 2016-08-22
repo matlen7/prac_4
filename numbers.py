@@ -1,3 +1,5 @@
+"my project"
+
 numbers = [10, 1, 4, 1, 5, 9, 1]
 print(numbers[0])
 print(numbers[-1])
